@@ -1,4 +1,4 @@
 quickstart
 ==========
 
-this repo has moved to cujojs/seed
+this repo has moved to https://github.com/cujojs/seed
